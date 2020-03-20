@@ -29,7 +29,7 @@
 			<a class="btn btn-primary" href="<?=site_url('settings');?>"><i class="fa fa-dashboard"></i> <?= lang('dashboard'); ?></a>
 			<a class="btn btn-default" href="javascript:void();" onclick="window.print();"><i class="fa fa-print"></i> <?= lang('print'); ?></a>
 		</div>
-		<p>Each image will be printed on separate page.</p>
+		<p>Cada imagen se imprimirá en una página separada.</p>
 		<div class="text-center"><?php echo $this->pagination->create_links(); ?></div>
 		<?=$html?>
 		<div  class="text-center"><?php echo $this->pagination->create_links(); ?></div>

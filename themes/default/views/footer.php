@@ -5,7 +5,7 @@
      
     Copyright &copy; Súper Abarrotes Cruz Todos los derechos reservados</footer>
 
-</div>- (919)120 -1104 
+</div>- (919)120-1104 
 <div id="ajaxCall"><i class="fa fa-spinner fa-pulse"></i></div>
 <script type="text/javascript">
     var base_url = '<?=base_url();?>';

@@ -21,7 +21,7 @@
 
             <div class="masthead clearfix">
                 <div class="inner">
-                    <h3 class="text-center">GPOROCASA</h3>
+                    <h3 class="text-center">Súper Abarrotes Cruz</h3>
                 </div>
             </div>
 
